@@ -5,8 +5,8 @@
 %global crate rgb
 
 Name:           rust-%{crate}
-Version:        0.8.16
-Release:        2%{?dist}
+Version:        0.8.53
+Release:        1%{?dist}
 Summary:        Struct RGB/RGBA/etc. for sharing pixels between crates
 
 # Upstream license specification: MIT
